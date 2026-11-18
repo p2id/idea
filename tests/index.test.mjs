@@ -7,7 +7,7 @@ const emptyMarkdown = `# Idea Record Index
 Count: 0
 
 | id | title | map_position | anchor_relation | feasibility | tags |
-|---|---|---|---|---|---
+|---|---|---|---|---|---|
 
 ## By map_position
 
@@ -42,7 +42,7 @@ const oneRecordMarkdown = `# Idea Record Index
 Count: 1
 
 | id | title | map_position | anchor_relation | feasibility | tags |
-|---|---|---|---|---|---
+|---|---|---|---|---|---|
 | r-000000000001 | Example idea | known | improves | core-verified | devtools |
 
 ## By map_position
